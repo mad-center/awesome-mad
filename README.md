@@ -10,7 +10,7 @@ Tutorials, guides, books and related things of MAD culture.
 >
 > - use summary tag to wrap TOC block.
 >
-> - 对链接添加必要的标签，例如【官方/第三方】【免费/收费】【活跃度↑↓】等。
+> - 对链接添加必要的标签，例如【免费/收费】【活跃度↑↓】【篇幅长度】等。
 > - 添加链接采纳原则（评估标准），采纳方式（例如issue建议）和废弃原则（过时？版权？质量？强不相关）。
 
 
@@ -55,6 +55,15 @@ Tutorials, guides, books and related things of MAD culture.
 - [白描](https://baimiao.uzero.cn/) - 高效准确的OCR文字识别、翻译与文件扫描软件。
 - [PearOCR](https://pearocr.com/#/) - 一个相当强大的免费 OCR 文字辨识工具。
 - 天若OCR开源版本地版 - 基于天若OCR开源版本的本地离线版，识别准确率不高，但具有本地可用的优势。
+
+### 配色
+
+- [HSL和HSV色彩空间](https://zh.wikipedia.org/wiki/HSL%E5%92%8CHSV%E8%89%B2%E5%BD%A9%E7%A9%BA%E9%97%B4) - 维基百科关于HSL和HSV色彩空间的说明。
+
+- [中国色 － 中国传统颜色](http://zhongguose.com/) - 中国传统颜色列举。
+- [NIPPON COLORS - 日本の伝統色](https://nipponcolors.com/) - 日本传统颜色列举。
+- [Adobe Color](https://color.adobe.com/zh/)- Adobe 色轮工具。
+- [颜色选择器 — HTML颜色代码](https://htmlcolorcodes.com/zh/yanse-xuanze-qi/) - 使用HTML颜色选择器来浏览上百万的颜色和色彩搭配。
 
 
 
