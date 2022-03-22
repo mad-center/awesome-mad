@@ -17,7 +17,7 @@ Tutorials, guides, books and related things of MAD culture.
 
 ## After Effects (AE)
 
-> 静止系/静止画MAD制作的主力软件。
+> AE是静止系/静止画MAD制作的主力软件。下面是关于AE使用一些教程。
 
 ### Basic
 
@@ -31,12 +31,17 @@ Tutorials, guides, books and related things of MAD culture.
 - [Motion Periodic Table](http://foxcodex.html.xdomain.jp/index.html) - このモーション周期表は、モーショングラフィックスにおける基本要素を抽出し、元素記号表のようにルールをもとに並べたものである。
   - [动效周期表](https://zhuanlan.zhihu.com/p/31915266) - 关于Motion Periodic Table的中文翻译教程。
 - [Expressioneer's Design Guide](http://www.motionscript.com/design-guide/toc.html) - A series of useful idea or technique about AE expression.
+- [【每日动效技巧】](https://www.bilibili.com/video/BV1sL411777f?share_source=copy_web) - 简短的动效技巧制作思路。
 
 
 
 ### AE 插件/脚本
 
-TODO
+- [Video Copilot Optical Flares Official Tutorials](https://www.videocopilot.net/products/opticalflares/features/plug-in_overview/) - 官网 Optical Flares 教程。
+  - [AE插件optical flares(OF光)教程](https://www.bilibili.com/video/BV1gx411c7mQ?share_source=copy_web) - 官网 Optical Flares 教程的一份中文翻译。
+- [ELEMENT 3D V2 TUTORIALS](https://www.videocopilot.net/element/v2/tutorials/) - E3D v2 官网教程。
+- [Element 3D Tutorials](https://youtu.be/k4HIKwdybTU) - Video Copilot 在Youtube上发布的E3D教程合集。
+  - [AK大神Element 3D中文字幕教程+英文案例教程（附E3D和C4D模型包）](https://www.bilibili.com/video/BV1qz411b7g1) - Youtube 上 E3D 教程的一份中文翻译。
 
 
 
