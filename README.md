@@ -7,9 +7,7 @@ Tutorials, guides, books and related things of MAD culture.
 > TODO: 
 >
 > - 添加更多分类目录。
->
 > - use summary tag to wrap TOC block.
->
 > - 对链接添加必要的标签，例如【免费/收费】【活跃度↑↓】【篇幅长度】等。
 > - 添加链接采纳原则（评估标准），采纳方式（例如issue建议）和废弃原则（过时？版权？质量？强不相关）。
 
@@ -32,7 +30,7 @@ Tutorials, guides, books and related things of MAD culture.
   - [动效周期表](https://zhuanlan.zhihu.com/p/31915266) - 关于Motion Periodic Table的中文翻译教程。
 - [Expressioneer's Design Guide](http://www.motionscript.com/design-guide/toc.html) - A series of useful idea or technique about AE expression.
 - [【每日动效技巧】](https://www.bilibili.com/video/BV1sL411777f?share_source=copy_web) - 简短的动效技巧制作思路。
-
+- 章鱼噪波教程 - 一个时长为30分钟的分形杂色应用的教程。
 
 
 ### AE 插件/脚本
