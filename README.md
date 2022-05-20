@@ -59,7 +59,10 @@ Tutorials, guides, books and related things of MAD culture.
 
 TODO
 
+## AI for Art and Illustration (AI生成图片)
 
+- [crypko.ai](https://crypko.ai/) - Crypko 使用 GAN（生成对抗网络），一种深度学习，自动生成高质量的 2D 人物立绘。
+- [Disco Diffusion](https://github.com/alembics/disco-diffusion) - A frankensteinian amalgamation of notebooks, models and techniques for the generation of AI Art and Animations.
 
 ## Book（书籍）
 
