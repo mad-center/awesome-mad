@@ -49,6 +49,11 @@ Tutorials, guides, books and related things of MAD culture.
 - [【AE表达式案例】AE螺旋线路径怎么做](https://www.yuelili.com/6540/) - 三角函数在螺旋线的应用。
 
 
+## PS
+
+- [如何在 Photoshop 中画一棵树/画笔](https://youtu.be/seeAANoyKSk) - 在PS中定义笔刷和绘制一棵吉普力风格的树。
+- [【ps黑科技】懒癌“画树”黑科技](https://www.bilibili.com/video/BV1m4411g7bx?share_source=copy_web) - 在PS中使用钢笔和滤镜功能快速生成各种风格的树。
+
 
 ## Blender
 
