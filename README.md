@@ -40,7 +40,7 @@ Tutorials, guides, books and related things of MAD culture.
 - [ELEMENT 3D V2 TUTORIALS](https://www.videocopilot.net/element/v2/tutorials/) - E3D v2 官网教程。
 - [Element 3D Tutorials](https://youtu.be/k4HIKwdybTU) - Video Copilot 在Youtube上发布的E3D教程合集。
   - [AK大神Element 3D中文字幕教程+英文案例教程（附E3D和C4D模型包）](https://www.bilibili.com/video/BV1qz411b7g1) - Youtube 上 E3D 教程的一份中文翻译。
-
+- [【AE插件】红巨星Particular官方教程 | P粒子](https://www.bilibili.com/video/BV13A411x7rV?share_source=copy_web) - Particular 官方教程（中文字幕）。
 
 
 ### AE 表达式
