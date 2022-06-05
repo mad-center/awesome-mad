@@ -16,16 +16,24 @@ Tutorials, guides, books and related things of MAD culture.
 ### Basic
 
 - [摄像机动画的两仪八卦掌](https://www.zcool.com.cn/article/ZNzQ3NTMy.html)- 一套摄像机动画的制作技巧与训练方法。
+
 - [AE塌陷开关深度解析](https://www.zcool.com.cn/article/ZNzg5MzAw.html) - 深入讲解AE中塌陷开关的作用。
+
+- 章鱼噪波教程 - 一个时长为30分钟的分形杂色应用的教程。
+
+  
 
 
 ### Motion Graphic (MG)
 
 - [Motion Periodic Table](http://foxcodex.html.xdomain.jp/index.html) - このモーション周期表は、モーショングラフィックスにおける基本要素を抽出し、元素記号表のようにルールをもとに並べたものである。
   - [动效周期表](https://zhuanlan.zhihu.com/p/31915266) - 关于Motion Periodic Table的中文翻译教程。
+  
 - [Expressioneer's Design Guide](http://www.motionscript.com/design-guide/toc.html) - A series of useful idea or technique about AE expression.
+
 - [【每日动效技巧】](https://www.bilibili.com/video/BV1sL411777f?share_source=copy_web) - 简短的动效技巧制作思路。
-- 章鱼噪波教程 - 一个时长为30分钟的分形杂色应用的教程。
+
+  
 
 
 ### AE 插件
@@ -41,7 +49,7 @@ Tutorials, guides, books and related things of MAD culture.
   - [AK大神Element 3D中文字幕教程+英文案例教程（附E3D和C4D模型包）](https://www.bilibili.com/video/BV1qz411b7g1) - Youtube 上 E3D 教程的一份中文翻译。
 
 ### AE 脚本
-- 漫画《动画的摄影1-AE脚本角色处理篇》（导出汉化）
+- 漫画《动画的摄影1-AE脚本角色处理篇》（导出汉化）- 使用ESTK在AE中进行脚本编程，自动化处理部分动画摄影工序的入门教程。对于零基础比较友好。
 
 ### AE 表达式
 
