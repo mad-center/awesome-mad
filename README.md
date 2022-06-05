@@ -107,6 +107,7 @@ TODO
 - [萌娘百科](https://zh.moegirl.org.cn/Mainpage) - ACG主题的在线百科全书。
 - [THBWiki](https://thwiki.cc/THBWiki) - 以专业性为目标的东方Project维基百科。
 - [Chinese Otomad Wiki](https://otomad.wiki/) - 这里是音MAD的百科全书ヾ(≧▽≦*)o，一个帮助新人入坑音MAD和科普音MAD素材的百科。
+- [后期术语 - 泼辣百科](https://www.polaxiong.com/wiki/hou-qi-shu-yu) - 对图片后期处理的一些专业术语的简要说明。
 
 
 
@@ -119,9 +120,9 @@ TODO
 - [Boris FX | Documentation](https://borisfx.com/support/documentation/) - Boris FX 视觉效果软件和插件的官方文档。
 - [Stardust User Guide](https://superluminal.tv/user-guide) - Stardust 粒子插件用户指南。
 - [VCB-Studio教程专栏](https://vcb-s.nmm-hd.org/) - VCB-Studio 关于动画压制的教程。
-- [后期术语 - 泼辣百科](https://www.polaxiong.com/wiki/hou-qi-shu-yu) - 对图片后期处理的一些专业术语的简要说明。
 - [AE workflow with motion interpolation on anime using Twixtor](https://lolligerjoj.wordpress.com/2016/10/22/twixtor-on-anime-footage-and-ae-workflow-using-twixtor/) - 使用Twixtor动画补帧的长篇论述。
 - [萌绘](https://www.moehui.com/) - 致力于提供高质量的漫画教程及相关学习资源，属于一个非营利性的网站。
+- [How to Easily Create a LUT With Adobe After Effects or Premiere Pro](https://youtu.be/o250fownOvE) - 在AE或者PR中创建和导出LUT预设。
 
 
 
