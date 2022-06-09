@@ -7,8 +7,6 @@ Tutorials, guides, books and related things of MAD culture.
 > - 对链接添加必要的标签，例如【免费/收费】【活跃度↑↓】【篇幅长度】等。
 > - 添加链接采纳原则（评估标准），采纳方式（例如issue建议）和废弃原则（过时？版权？质量？强不相关）。
 
-
-
 ## After Effects (AE)
 
 > AE是静止系/静止画MAD制作的主力软件。下面是关于AE使用一些教程。
@@ -16,25 +14,15 @@ Tutorials, guides, books and related things of MAD culture.
 ### Basic
 
 - [摄像机动画的两仪八卦掌](https://www.zcool.com.cn/article/ZNzQ3NTMy.html)- 一套摄像机动画的制作技巧与训练方法。
-
 - [AE塌陷开关深度解析](https://www.zcool.com.cn/article/ZNzg5MzAw.html) - 深入讲解AE中塌陷开关的作用。
-
 - 章鱼噪波教程 - 一个时长为30分钟的分形杂色应用的教程。
-
-  
-
 
 ### Motion Graphic (MG)
 
 - [Motion Periodic Table](http://foxcodex.html.xdomain.jp/index.html) - このモーション周期表は、モーショングラフィックスにおける基本要素を抽出し、元素記号表のようにルールをもとに並べたものである。
   - [动效周期表](https://zhuanlan.zhihu.com/p/31915266) - 关于Motion Periodic Table的中文翻译教程。
-  
-- [Expressioneer's Design Guide](http://www.motionscript.com/design-guide/toc.html) - A series of useful idea or technique about AE expression.
-
+- [MOTIONBOX](https://motion-box.net/) - 动态平面设计师， 一项允许您共享和交换文件的服务。
 - [【每日动效技巧】](https://www.bilibili.com/video/BV1sL411777f?share_source=copy_web) - 简短的动效技巧制作思路。
-
-  
-
 
 ### AE 插件
 
@@ -52,23 +40,19 @@ Tutorials, guides, books and related things of MAD culture.
 - 漫画《动画的摄影1-AE脚本角色处理篇》（导出汉化）- 使用ESTK在AE中进行脚本编程，自动化处理部分动画摄影工序的入门教程。对于零基础比较友好。
 
 ### AE 表达式
-
+- [Expressioneer's Design Guide](http://www.motionscript.com/design-guide/toc.html) - A series of useful idea or technique about AE expression.
 - [【表达式案例】方块旋转放入方块](https://www.yuelili.com/box-rotation/) - 三角函数在迭代同构图形的应用。
 - [【AE表达式案例】AE螺旋线路径怎么做](https://www.yuelili.com/6540/) - 三角函数在螺旋线的应用。
 
-
 ## PS
-
 - [如何在 Photoshop 中画一棵树/画笔](https://youtu.be/seeAANoyKSk) - 在PS中定义笔刷和绘制一棵吉普力风格的树。
 - [【ps黑科技】懒癌“画树”黑科技](https://www.bilibili.com/video/BV1m4411g7bx?share_source=copy_web) - 在PS中使用钢笔和滤镜功能快速生成各种风格的树。
-
 
 ## Blender
 
 TODO
 
 ## AI for Art and Illustration (AI生成图片)
-
 - [crypko.ai](https://crypko.ai/) - Crypko 使用 GAN（生成对抗网络），一种深度学习，自动生成高质量的 2D 人物立绘。
 - [Disco Diffusion](https://github.com/alembics/disco-diffusion) - A frankensteinian amalgamation of notebooks, models and techniques for the generation of AI Art and Animations.
 
@@ -77,8 +61,6 @@ TODO
 > 涉及字体、构图、排版、调色/配色、光影/打光、动画摄影、场景制作等方面的优秀书籍推荐。
 
 - [The Type 书单](https://www.thetype.com/booklist/) - The Type 网站关于文字设计和视觉文化的相关书单。
-
-
 
 ## Tool（工具）
 
@@ -105,7 +87,6 @@ TODO
 - [颜色选择器 — HTML颜色代码](https://htmlcolorcodes.com/zh/yanse-xuanze-qi/) - 使用HTML颜色选择器来浏览上百万的颜色和色彩搭配。
 
 
-
 ## GalGame
 
 > Gal Game 相关网站。
@@ -124,7 +105,6 @@ TODO
 - [后期术语 - 泼辣百科](https://www.polaxiong.com/wiki/hou-qi-shu-yu) - 对图片后期处理的一些专业术语的简要说明。
 
 
-
 ## Tutorial（教程）
 
 > 优秀的教程/网站。
@@ -135,13 +115,9 @@ TODO
 - [萌绘](https://www.moehui.com/) - 致力于提供高质量的漫画教程及相关学习资源，属于一个非营利性的网站。
 - [How to Easily Create a LUT With Adobe After Effects or Premiere Pro](https://youtu.be/o250fownOvE) - 在AE或者PR中创建和导出LUT预设。
 
-
-
 ## MAD 历史文化
 
 TODO
-
-
 
 ## MAD Team Base
 
@@ -149,12 +125,9 @@ TODO
 
 - [HsMAD](http://hsmad.blogspot.com/p/blog-post.html) - HsMaD官方網站，所有重大消息都在這裡發佈。
 
-
-
 ## MAD 比赛
 
 > MAD 著名赛事的介绍。
 
 - [为什么国内的MAD大赛都逐渐停办了？](https://www.zhihu.com/question/270415323) - 知乎上关于国内MAD大赛衰退现状的讨论。
 - [MAD/MAD比赛](https://zh.moegirl.org.cn/MAD/MAD%E6%AF%94%E8%B5%9B) - 萌娘百科关于MAD比赛的条目介绍，可以了解到历史上著名的MAD赛事。
-
