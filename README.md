@@ -122,9 +122,11 @@ TODO
 
 ## MAD Team Base
 
-> 一些MAD组的基地：旧时代的废墟。
+> 一些关于MAD的交流论坛/阵地，旧时代的废墟。——百合如潮人如水，只叹雪舞几人回。
 
 - [HsMAD](http://hsmad.blogspot.com/p/blog-post.html) - HsMaD官方網站，所有重大消息都在這裡發佈。
+- [澄空学园 MAD板块](https://bbs.sumisora.net/thread.php?fid=89) - 澄空学园是国内较早的一批有MAD板块的论坛。
+- [timmad论坛](http://www.timmad.com/forum.php) - TIMM@D官方论坛，做好自己心中的MAD。
 
 ## MAD 比赛
 
