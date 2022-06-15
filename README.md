@@ -46,6 +46,7 @@ Tutorials, guides, books and related things of MAD culture.
 
 ### MAD制作相关教程
 - [【MAD小教程】结城式场景的调色与“结城光”的运用](https://www.bilibili.com/read/cv6509996) - 在AE中模仿结城辰也插图的光影风格。
+- [水波纹的做法](https://www.bilibili.com/read/cv52444) - 在AE中制作水波纹的3种方法。
 
 ## PS
 - [如何在 Photoshop 中画一棵树/画笔](https://youtu.be/seeAANoyKSk) - 在PS中定义笔刷和绘制一棵吉普力风格的树。
