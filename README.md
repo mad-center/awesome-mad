@@ -62,9 +62,14 @@ TODO
 - [crypko.ai](https://crypko.ai/) - Crypko 使用 GAN（生成对抗网络），一种深度学习，自动生成高质量的 2D 人物立绘。
 - [Disco Diffusion](https://github.com/alembics/disco-diffusion) - A frankensteinian amalgamation of notebooks, models and techniques for the generation of AI Art and Animations.
 
-## 字体
 
-> 涉及字体的资源推荐。
+## 资源
+
+### 图片
+
+- [Freepik](https://www.freepik.com/) - 一个收集矢量图，PSD，纹理背景，字体资源的网站。
+
+### 字体
 
 - [The Type 书单](https://www.thetype.com/booklist/) - The Type 网站关于文字设计和视觉文化的相关书单。
 - [DaFont](https://www.dafont.com/) - 提供免费高质量字体资源，以西文字体为主，绝大多数免费。
