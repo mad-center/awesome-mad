@@ -86,6 +86,10 @@ TODO
 - [Adobe Color](https://color.adobe.com/zh/)- Adobe 色轮工具。
 - [颜色选择器 — HTML颜色代码](https://htmlcolorcodes.com/zh/yanse-xuanze-qi/) - 使用HTML颜色选择器来浏览上百万的颜色和色彩搭配。
 
+### 资源管理
+
+- [Billfish](https://www.billfish.cn/) - 面向未来的素材管理工具。
+- [connecter](https://www.designconnected.com/connecter/) - Free and visual creative assets management for 3d, AEC and design professionals.
 
 ## GalGame
 
@@ -132,3 +136,7 @@ TODO
 
 - [为什么国内的MAD大赛都逐渐停办了？](https://www.zhihu.com/question/270415323) - 知乎上关于国内MAD大赛衰退现状的讨论。
 - [MAD/MAD比赛](https://zh.moegirl.org.cn/MAD/MAD%E6%AF%94%E8%B5%9B) - 萌娘百科关于MAD比赛的条目介绍，可以了解到历史上著名的MAD赛事。
+
+  
+
+  
