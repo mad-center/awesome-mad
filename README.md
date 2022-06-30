@@ -44,6 +44,12 @@ Tutorials, guides, books and related things of MAD culture.
 - [【表达式案例】方块旋转放入方块](https://www.yuelili.com/box-rotation/) - 三角函数在迭代同构图形的应用。
 - [【AE表达式案例】AE螺旋线路径怎么做](https://www.yuelili.com/6540/) - 三角函数在螺旋线的应用。
 
+### MAD制作相关教程
+- [【MAD小教程】结城式场景的调色与“结城光”的运用](https://www.bilibili.com/read/cv6509996) - 在AE中模仿结城辰也插图的光影风格。
+- [水波纹的做法](https://www.bilibili.com/read/cv52444) - 在AE中制作水波纹的3种方法。
+- [关于动画制作在MAD中的运用](https://www.bilibili.com/read/readlist/rl20003) - MAD常见效果的制作教程，一共16篇。
+- [TERM系列教程指路整理 （2017～2021）](https://www.bilibili.com/read/cv13519182) - TERM系列教程汇总，目前收录01-41期。
+
 ## PS
 - [如何在 Photoshop 中画一棵树/画笔](https://youtu.be/seeAANoyKSk) - 在PS中定义笔刷和绘制一棵吉普力风格的树。
 - [【ps黑科技】懒癌“画树”黑科技](https://www.bilibili.com/video/BV1m4411g7bx?share_source=copy_web) - 在PS中使用钢笔和滤镜功能快速生成各种风格的树。
@@ -56,11 +62,17 @@ TODO
 - [crypko.ai](https://crypko.ai/) - Crypko 使用 GAN（生成对抗网络），一种深度学习，自动生成高质量的 2D 人物立绘。
 - [Disco Diffusion](https://github.com/alembics/disco-diffusion) - A frankensteinian amalgamation of notebooks, models and techniques for the generation of AI Art and Animations.
 
-## Book（书籍）
 
-> 涉及字体、构图、排版、调色/配色、光影/打光、动画摄影、场景制作等方面的优秀书籍推荐。
+## 资源
+
+### 图片
+
+- [Freepik](https://www.freepik.com/) - 一个收集矢量图，PSD，纹理背景，字体资源的网站。
+
+### 字体
 
 - [The Type 书单](https://www.thetype.com/booklist/) - The Type 网站关于文字设计和视觉文化的相关书单。
+- [DaFont](https://www.dafont.com/) - 提供免费高质量字体资源，以西文字体为主，绝大多数免费。
 
 ## Tool（工具）
 
@@ -124,11 +136,13 @@ TODO
 
 TODO
 
-## MAD Team Base
+## MAD Disscusion
 
-> 一些MAD组的基地：旧时代的废墟。
+> 一些关于MAD的交流论坛/阵地，旧时代的废墟。——百合如潮人如水，只叹雪舞几人回。
 
 - [HsMAD](http://hsmad.blogspot.com/p/blog-post.html) - HsMaD官方網站，所有重大消息都在這裡發佈。
+- [澄空学园 MAD板块](https://bbs.sumisora.net/thread.php?fid=89) - 澄空学园是国内较早的一批有MAD板块的论坛。
+- [timmad论坛](http://www.timmad.com/forum.php) - TIMM@D官方论坛，做好自己心中的MAD。
 
 ## MAD 比赛
 
