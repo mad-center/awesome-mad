@@ -50,13 +50,17 @@ Tutorials, guides, books and related things of MAD culture.
 - [关于动画制作在MAD中的运用](https://www.bilibili.com/read/readlist/rl20003) - MAD常见效果的制作教程，一共16篇。
 - [TERM系列教程指路整理 （2017～2021）](https://www.bilibili.com/read/cv13519182) - TERM系列教程汇总，目前收录01-41期。
 
+### GFX
+- [DeviantArt - Discover The Largest Online Art Gallery and Community](https://www.deviantart.com/search?q=gfx) - GFX示例参考。
+
 ## PS
 - [如何在 Photoshop 中画一棵树/画笔](https://youtu.be/seeAANoyKSk) - 在PS中定义笔刷和绘制一棵吉普力风格的树。
 - [【ps黑科技】懒癌“画树”黑科技](https://www.bilibili.com/video/BV1m4411g7bx?share_source=copy_web) - 在PS中使用钢笔和滤镜功能快速生成各种风格的树。
 
 ## Blender
+- [(Blender)-自學記錄- EEVEE 和 CYCLES 差異–Part01](https://spimet.com/blog/archives/206) - 图例对比来简要分析blender中eevee和cycles的渲染区别。
+- [(Blender)-Cycles渲染器：不同類型Node接口相連–Part02](https://spimet.com/blog/archives/206) - 探究blender中不同类型的几何节点的连接问题。
 
-TODO
 
 ## AI for Art and Illustration (AI生成图片)
 - [crypko.ai](https://crypko.ai/) - Crypko 使用 GAN（生成对抗网络），一种深度学习，自动生成高质量的 2D 人物立绘。
