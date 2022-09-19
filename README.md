@@ -132,9 +132,12 @@ TODO
 - [How to Easily Create a LUT With Adobe After Effects or Premiere Pro](https://youtu.be/o250fownOvE) - 在AE或者PR中创建和导出LUT预设。
 - [FORMAL LINEAR PERSPECTIVE](https://youtube.com/playlist?list=PLMXbAPr21di8DjTKCE3EoS4KFtNZ-FDnP) - The Drawing Database 关于形式线性透视的讲解。
 
-## MAD 历史文化
+## MAD 历史
 
-TODO
+- [『MADmovie黑歷史』edited by CCSX／based on the Web Site《－M@Dscence ; fixed－》](http://ccsx.web.fc2.com/whatismad-history.htm) - 1978-2007年间MAD发展历史的描述。
+- [- M@Dscene;fixed](https://crew-mad.tripod.com/) - 1996-2001年间MAD发展历史的描述。
+- [MADの歴史](http://babanba-n.iobb.net/wiki/?MAD%E5%8F%B2) - 1970至今的MAD历史描述。
+- [MAD的前世今生](https://docs.qq.com/doc/DUVpIbENuU21UQWl3) - 一份关于MAD历史发展的详细描述，包含MAD起源、MAD特色、MAD活动以及相关资源导航。
 
 ## MAD Disscusion
 
