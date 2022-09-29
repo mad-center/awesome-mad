@@ -53,6 +53,9 @@ Tutorials, guides, books and related things of MAD culture.
 ### GFX
 - [DeviantArt - Discover The Largest Online Art Gallery and Community](https://www.deviantart.com/search?q=gfx) - GFX示例参考。
 
+### 特效/实用工具
+- [Tools OLM Digital R&D](https://olm.co.jp/rd/technology/tools/?lang=en#post-635) - AE、maya、nuke工具类插件，用于动画摄影的制作。
+
 ## PS
 - [如何在 Photoshop 中画一棵树/画笔](https://youtu.be/seeAANoyKSk) - 在PS中定义笔刷和绘制一棵吉普力风格的树。
 - [【ps黑科技】懒癌“画树”黑科技](https://www.bilibili.com/video/BV1m4411g7bx?share_source=copy_web) - 在PS中使用钢笔和滤镜功能快速生成各种风格的树。
