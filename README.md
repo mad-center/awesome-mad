@@ -116,7 +116,7 @@ Tutorials, guides, books and related things of MAD culture.
 
 - [月幕Galgame](https://www.ymgal.com/) - 一个围绕着名为“Galgame”的体裁的综合性平台。
 
-
+- [CnGal](https://www.cngal.org/) - CnGal 中文GalGame资料站。
 
 ## Wiki（百科）
 
