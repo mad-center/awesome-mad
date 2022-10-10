@@ -76,6 +76,7 @@ Tutorials, guides, books and related things of MAD culture.
 
 - [松冈伸治的构图技巧](https://book.douban.com/subject/35517009/) - 构图入门书籍，案例大多是 PIXIV 画师授权的作品。
 - [松冈伸治的配色技巧](https://book.douban.com/subject/35517974/) - 配色入门书籍，讲解简洁，内容充实。
+- [版面设计的原理](https://book.douban.com/subject/6718283/) - 排版/平面设计入门书籍。或许对MAD排版有一定启发作用。
 
 > TODO：原动画基础教程/大平幸辉摄影书1、2、3
 
