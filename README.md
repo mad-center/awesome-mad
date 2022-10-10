@@ -69,6 +69,14 @@ Tutorials, guides, books and related things of MAD culture.
 - [crypko.ai](https://crypko.ai/) - Crypko 使用 GAN（生成对抗网络），一种深度学习，自动生成高质量的 2D 人物立绘。
 - [Disco Diffusion](https://github.com/alembics/disco-diffusion) - A frankensteinian amalgamation of notebooks, models and techniques for the generation of AI Art and Animations.
 
+> TODO: DD、SD、midjourney 
+
+## 书籍
+
+- [松冈伸治的构图技巧](https://book.douban.com/subject/35517009/) - 构图入门书籍，案例大多是 PIXIV 画师授权的作品。
+- [松冈伸治的配色技巧](https://book.douban.com/subject/35517974/) - 配色入门书籍，讲解简洁，内容充实。
+
+> TODO：原动画基础教程/大平幸辉摄影书1、2、3
 
 ## 资源
 
