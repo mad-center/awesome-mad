@@ -65,6 +65,12 @@ Tutorials, guides, books and related things of MAD culture.
 - [(Blender)-自學記錄- EEVEE 和 CYCLES 差異–Part01](https://spimet.com/blog/archives/206) - 图例对比来简要分析blender中eevee和cycles的渲染区别。
 - [(Blender)-Cycles渲染器：不同類型Node接口相連–Part02](https://spimet.com/blog/archives/206) - 探究blender中不同类型的几何节点的连接问题。
 
+## 插帧
+
+- [twixtor]() - 这是一种传统的插帧模式，容易人工介入中间过程。PR和AE均有对应插件。
+- [DAIN](https://github.com/baowenbo/DAIN) - Depth-Aware Video Frame Interpolation (CVPR 2019).
+- [CAIN](https://github.com/nihui/cain-ncnn-vulkan) - CAIN (Channel Attention Is All You Need for Video Frame Interpolation) (AAAI 2020).
+- [RIFE](https://github.com/nihui/rife-ncnn-vulkan) - RIFE, Real-Time Intermediate Flow Estimation for Video Frame Interpolation.
 
 ## AI for Art and Illustration (AI生成图片)
 - [crypko.ai](https://crypko.ai/) - Crypko 使用 GAN（生成对抗网络），一种深度学习，自动生成高质量的 2D 人物立绘。
