@@ -69,8 +69,20 @@ Tutorials, guides, books and related things of MAD culture.
 
 - [twixtor]() - 这是一种传统的插帧模式，容易人工介入中间过程。PR和AE均有对应插件。
 - [DAIN](https://github.com/baowenbo/DAIN) - Depth-Aware Video Frame Interpolation (CVPR 2019).
-- [CAIN](https://github.com/nihui/cain-ncnn-vulkan) - CAIN (Channel Attention Is All You Need for Video Frame Interpolation) (AAAI 2020).
-- [RIFE](https://github.com/nihui/rife-ncnn-vulkan) - RIFE, Real-Time Intermediate Flow Estimation for Video Frame Interpolation.
+- [cain-ncnn-vulkan](https://github.com/nihui/cain-ncnn-vulkan) - CAIN (Channel Attention Is All You Need for Video Frame Interpolation) (AAAI 2020).
+- [rife-ncnn-vulkan](https://github.com/nihui/rife-ncnn-vulkan) - RIFE, Real-Time Intermediate Flow Estimation for Video Frame Interpolation.
+- [SVFI](https://github.com/Justin62628/Squirrel-RIFE) - 基于RIFE算法的中文补帧软件。
+
+## 超分辨率
+
+- [waifu2x](https://github.com/nagadomi/waifu2x) - Image Super-Resolution for Anime-Style Art.
+- [waifu2x-ncnn-vulkan](https://github.com/nihui/waifu2x-ncnn-vulkan) - waifu2x converter ncnn version.
+- [Real-ESRGAN](https://github.com/xinntao/Real-ESRGAN) - Real-ESRGAN 的源头仓库。
+- [Real-ESRGAN-ncnn-vulkan](https://github.com/xinntao/Real-ESRGAN-ncnn-vulkan) - Real-ESRGAN 的 ncnn 实现，更新落后于 Real-ESRGAN 。
+- [realesrgan-gui](https://github.com/TransparentLC/realesrgan-gui) - 基于 python 实现的 Real-ESRGAN-ncnn-vulkan 界面工具，更新落后于 Real-ESRGAN-ncnn-vulkan 。
+- [Real-ESRGAN-GUI](https://github.com/tsukumijima/Real-ESRGAN-GUI) - 基于 flutter 实现的 Real-ESRGAN/Real-CUGAN 界面工具，更新落后于上游依赖仓库。
+- [Real-CUGAN](https://github.com/bilibili/ailab) - Real Cascade U-Nets for Anime Image Super Resolution.
+- [realcugan-ncnn-vulkan](https://github.com/nihui/realcugan-ncnn-vulkan) - real-cugan converter ncnn version.
 
 ## AI for Art and Illustration (AI生成图片)
 - [crypko.ai](https://crypko.ai/) - Crypko 使用 GAN（生成对抗网络），一种深度学习，自动生成高质量的 2D 人物立绘。
