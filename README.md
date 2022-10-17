@@ -162,7 +162,8 @@ Tutorials, guides, books and related things of MAD culture.
 > 优秀的教程/网站。
 
 - [Adobe 帮助中心](https://helpx.adobe.com/) - Adobe 软件的官方帮助中心，涵盖旗下所有软件的帮助文档，其中“用户指南”部分的使用说明比较有用。
-- [VCB-Studio教程专栏](https://vcb-s.nmm-hd.org/) - VCB-Studio 关于动画压制的教程。
+- [VCB-Studio 教程专栏](https://vcb-s.nmm-hd.org/) - VCB-Studio 关于动画压制的教程。
+- [VCB-Studio 科普教程](https://vcb-s.com/archives/category/kb) - VCB Studio 科普系列教程。 
 - [AE workflow with motion interpolation on anime using Twixtor](https://lolligerjoj.wordpress.com/2016/10/22/twixtor-on-anime-footage-and-ae-workflow-using-twixtor/) - 使用Twixtor动画补帧的长篇论述。
 - [萌绘](https://www.moehui.com/) - 致力于提供高质量的漫画教程及相关学习资源，属于一个非营利性的网站。
 - [How to Easily Create a LUT With Adobe After Effects or Premiere Pro](https://youtu.be/o250fownOvE) - 在AE或者PR中创建和导出LUT预设。
