@@ -64,6 +64,10 @@ Tutorials, guides, books and related things of MAD culture.
 ## Blender
 - [(Blender)-自學記錄- EEVEE 和 CYCLES 差異–Part01](https://spimet.com/blog/archives/206) - 图例对比来简要分析blender中eevee和cycles的渲染区别。
 - [(Blender)-Cycles渲染器：不同類型Node接口相連–Part02](https://spimet.com/blog/archives/206) - 探究blender中不同类型的几何节点的连接问题。
+- [【NEXT】Blender万物有灵STUDIO 1.53智能资产管理工具NEXT(公众版)](https://www.bilibili.com/video/BV1dQ4y1B79W/) - 一个自由、灵活、强大的Blender资产管理工具。
+- [【中文M3】还得靠它-blender3.3增强工具machin3tools 1.1](https://www.bilibili.com/video/BV1qf4y1C7Ag) - machin3tools（M3）是blender一款强大的开源免费的操作简化工具。
+  - [【M3工具】Machin3tools中文手册（1.1版本）](https://www.blendermagic.cn/#/article/5311ab7b-481b-11eb-95ed-0242ac110004)
+- [Blender 2.9-3.4黑铁骑士Ⅱ系统零基础入门教程](https://www.bilibili.com/video/BV1zh411Y7LX) - 一份认真详尽的Blender入门教程。
 
 ## 插帧
 
