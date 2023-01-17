@@ -107,6 +107,7 @@ Tutorials, guides, books and related things of MAD culture.
 ### 图片
 
 - [Freepik](https://www.freepik.com/) - 一个收集矢量图，PSD，纹理背景，字体资源的网站。
+- [pixiv 排名聚合查询](https://pixiv.navirank.com/) - 一个观测pixiv插图排名的网站。
 
 ### 字体
 
