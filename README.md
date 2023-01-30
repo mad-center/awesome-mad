@@ -69,6 +69,14 @@ Tutorials, guides, books and related things of MAD culture.
   - [【M3工具】Machin3tools中文手册（1.1版本）](https://www.blendermagic.cn/#/article/5311ab7b-481b-11eb-95ed-0242ac110004)
 - [Blender 2.9-3.4黑铁骑士Ⅱ系统零基础入门教程](https://www.bilibili.com/video/BV1zh411Y7LX) - 一份认真详尽的Blender入门教程。
 
+## 上色
+- [style2paints](https://github.com/lllyasviel/style2paints) - sketch + style = paints 🎨 (TOG2018/SIGGRAPH2018ASIA). 是一个人工智能线稿上色的软件。
+
+## 粗剪
+- [Pr](https://zh.wikipedia.org/zh-cn/Adobe_Premiere_Pro) - PR 是一个纯碱常用的MAD制作工具，也可以用来粗剪。
+- [avidemux2](https://github.com/mean00/avidemux2) - 开源、轻巧的视频粗剪工具。推荐。
+- [lossless-cut](https://github.com/mifi/lossless-cut) -  lossless video/audio editing。又一个视频粗剪工具，界面稍显简陋。
+
 ## 插帧
 
 - [twixtor]() - 这是一种传统的插帧模式，容易人工介入中间过程。PR和AE均有对应插件。
