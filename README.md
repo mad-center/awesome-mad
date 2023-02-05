@@ -87,6 +87,7 @@ Tutorials, guides, books and related things of MAD culture.
 
 ## 超分辨率
 
+- [Anime4K](https://github.com/bloc97/Anime4K) - A High-Quality **Real Time** Upscaler for Anime Video.
 - [waifu2x](https://github.com/nagadomi/waifu2x) - Image Super-Resolution for Anime-Style Art.
 - [waifu2x-ncnn-vulkan](https://github.com/nihui/waifu2x-ncnn-vulkan) - waifu2x converter ncnn version.
 - [Real-ESRGAN](https://github.com/xinntao/Real-ESRGAN) - Real-ESRGAN 的源头仓库。
