@@ -69,9 +69,10 @@ Tutorials, guides, books and related things of MAD culture.
   - [【M3工具】Machin3tools中文手册（1.1版本）](https://www.blendermagic.cn/#/article/5311ab7b-481b-11eb-95ed-0242ac110004)
 - [Blender 2.9-3.4黑铁骑士Ⅱ系统零基础入门教程](https://www.bilibili.com/video/BV1zh411Y7LX) - 一份认真详尽的Blender入门教程。
 
-## 抠图
+## 抠图/补图
 - [PS]() - 传统抠图。
 - [rembg](https://github.com/danielgatis/rembg) - 一种基于AI的抠图，非常快速，可以作为PS抠图的预处理步骤。
+- [Lama Cleaner](https://huggingface.co/spaces/Sanster/Lama-Cleaner-lama) - 一款开源的 AI 在线修补工具，通过手动涂抹要修复的区域即可完成。
 
 ## 上色
 - [style2paints](https://github.com/lllyasviel/style2paints) - sketch + style = paints 🎨 (TOG2018/SIGGRAPH2018ASIA). 是一个人工智能线稿上色的软件。
