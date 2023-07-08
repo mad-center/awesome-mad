@@ -73,6 +73,7 @@ Tutorials, guides, books and related things of MAD culture.
 - [PS]() - 传统抠图。
 - [rembg](https://github.com/danielgatis/rembg) - 一种基于AI的抠图，非常快速，可以作为PS抠图的预处理步骤。
 - [Lama Cleaner](https://huggingface.co/spaces/Sanster/Lama-Cleaner-lama) - 一款开源的 AI 在线修补工具，通过手动涂抹要修复的区域即可完成。
+- [DragGAN](https://github.com/XingangPan/DragGAN) - 抠图+补图的融合，适合制作木偶动画。如果控制点更加精细的话，估计效果会更好。
 
 ## 上色
 - [style2paints](https://github.com/lllyasviel/style2paints) - sketch + style = paints 🎨 (TOG2018/SIGGRAPH2018ASIA). 是一个人工智能线稿上色的软件。
