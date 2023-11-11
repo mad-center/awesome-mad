@@ -3,10 +3,7 @@
 Tutorials, guides, books and related things of MAD culture.
 
 > TODO: 
-> - 采用折叠式 readme style，参阅 https://github.com/misitebao/yakia
 > - use summary tag to wrap TOC block.
-> - 对链接添加必要的标签，例如【免费/收费】【活跃度↑↓】【篇幅长度】等。
-> - 添加链接采纳原则（评估标准），采纳方式（例如issue建议）和废弃原则（过时？版权？质量？强不相关）。
 
 ## After Effects (AE)
 
