@@ -2,9 +2,6 @@
 
 Tutorials, guides, books and related things of MAD culture.
 
-> TODO: 
-> - use summary tag to wrap TOC block.
-
 ## After Effects (AE)
 
 > AE是静止系/静止画MAD制作的主力软件。下面是关于AE使用一些教程。
@@ -36,8 +33,10 @@ Tutorials, guides, books and related things of MAD culture.
 
 ### AE 脚本
 - 漫画《动画的摄影1-AE脚本角色处理篇》（导出汉化）- 使用ESTK在AE中进行脚本编程，自动化处理部分动画摄影工序的入门教程。对于零基础比较友好。
+- [After Effects Scripting Guide](https://ae-scripting.docsforadobe.dev/introduction/overview.html) - Adobe 官方的 AE 脚本参考，仅用于 API 查阅参考。。
 
 ### AE 表达式
+- [After Effects Expression Reference](https://ae-expressions.docsforadobe.dev/introduction.html) - Adobe 官方的 AE 表达式参考，仅用于 API 查阅参考。
 - [Expressioneer's Design Guide](http://www.motionscript.com/design-guide/toc.html) - A series of useful idea or technique about AE expression.
 - [【表达式案例】方块旋转放入方块](https://www.yuelili.com/box-rotation/) - 三角函数在迭代同构图形的应用。
 - [【AE表达式案例】AE螺旋线路径怎么做](https://www.yuelili.com/6540/) - 三角函数在螺旋线的应用。
