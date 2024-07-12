@@ -47,6 +47,8 @@ Tutorials, guides, books and related things of MAD culture.
 - [水波纹的做法](https://www.bilibili.com/read/cv52444) - 在AE中制作水波纹的3种方法。
 - [关于动画制作在MAD中的运用](https://www.bilibili.com/read/readlist/rl20003) - MAD常见效果的制作教程，一共16篇。
 - [TERM系列教程指路整理 （2017～2021）](https://www.bilibili.com/read/cv13519182) - TERM系列教程汇总，目前收录01-41期。
+- [简单的MAD合成分享【Anppi 2021】](https://www.bilibili.com/read/cv13382830) - MAD画面合成处理基础教程。
+- [有关于日式静止系的合成润色思路之简单场景（连载二）](https://www.bilibili.com/read/cv19193162/) - 日式静止系合成润色基础教程。
 
 ### GFX
 - [DeviantArt - Discover The Largest Online Art Gallery and Community](https://www.deviantart.com/search?q=gfx) - GFX示例参考。
