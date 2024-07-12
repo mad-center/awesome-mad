@@ -37,6 +37,7 @@ Tutorials, guides, books and related things of MAD culture.
 
 ### AE 表达式
 - [After Effects Expression Reference](https://ae-expressions.docsforadobe.dev/introduction.html) - Adobe 官方的 AE 表达式参考，仅用于 API 查阅参考。
+- [After Effects: The Power of Expression](https://book.douban.com/subject/35370548/) - AE表达式的入门书籍。
 - [Expressioneer's Design Guide](http://www.motionscript.com/design-guide/toc.html) - A series of useful idea or technique about AE expression.
 - [【表达式案例】方块旋转放入方块](https://www.yuelili.com/box-rotation/) - 三角函数在迭代同构图形的应用。
 - [【AE表达式案例】AE螺旋线路径怎么做](https://www.yuelili.com/6540/) - 三角函数在螺旋线的应用。
