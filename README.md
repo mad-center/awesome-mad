@@ -114,6 +114,7 @@ Tutorials, guides, books and related things of MAD culture.
 - [松冈伸治的配色技巧](https://book.douban.com/subject/35517974/) - 配色入门书籍，讲解简洁，内容充实。
 - [版面设计的原理](https://book.douban.com/subject/6718283/) - 排版/平面设计入门书籍。或许对MAD排版有一定启发作用。
 - [西文排版](https://book.douban.com/subject/26834548/) - 西文平面排版中的好书，行文流畅，逻辑结构清晰，容易阅读。
+- [Typographic Systems of Design](https://book.douban.com/subject/2822555/) - 此书论述了8个文字排版系统。篇幅简洁。
 
 > TODO：原动画基础教程/大平幸辉摄影书1、2、3
 
