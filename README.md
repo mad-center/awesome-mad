@@ -215,5 +215,9 @@ Tutorials, guides, books and related things of MAD culture.
 - [MAD/MAD比赛](https://zh.moegirl.org.cn/MAD/MAD%E6%AF%94%E8%B5%9B) - 萌娘百科关于MAD比赛的条目介绍，可以了解到历史上著名的MAD赛事。
 
   
+## MAD 相关的学术研究
 
+> 收集一些关于MAD的研究报告或者论文。
+
+- [创意阶层还是不稳定工作者：中国视频平台中的动画二次创作者](https://madproducer.com/ccopw) - 研究中国视频平台Bilibili上动画二次创作者的零工经济现象。
   
